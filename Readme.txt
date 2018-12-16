@@ -1,1 +1,1 @@
-Individual Data Mining Project
+German Credit Data
