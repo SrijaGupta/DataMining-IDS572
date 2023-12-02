@@ -1,1 +1,1 @@
-This is a data mining project
+This is not a data mining project
